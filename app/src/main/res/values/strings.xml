@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Assignment2CustomList</string>
+    <string-array name="Names">
+        <item>Ali Raza</item>
+        <item>Attiya Babar</item>
+        <item>Arsalan Amjid</item>
+        <item>Nasrullah Kakar</item>
+        <item>Hareem Moazzam</item>
+        <item>Shanza Khan</item>
+        <item>Gulsher Khan</item>
+        <item>Hamza Hanif</item>
+        <item>Moiz Hassan</item>
+        <item>Safyan Yousafzai</item>
+        <item>Asma Hafeez</item>
+        <item>Mehwish Bilal</item>
+        <item>Ibtasam Aziz</item>
+        <item>Daanish Bashir</item>
+        <item>Ghazmir Mansur</item>
+        <item>Rafia Khan</item>
+        <item>Moiz Ahmed</item>
+        <item>Shazia Batool</item>
+        <item>Zuhair Abbas</item>
+        <item>Ehtsham Sajjad</item>
+        <item>Mansoor Sadiq</item>
+        <item>Rizwan Akhtar</item>
+        <item>Asad Abbas</item>
+        <item>Sara Khan</item>
+        <item>Faisal Imran</item>
+        <item>Danish Habib</item>
+        <item>Nafay Sheikh</item>
+        <item>Haider Niazi</item>
+        <item>Saad Arshad</item>
+        <item>Irsa Abbasi</item>
+        <item>Zubair Khan</item>
+        <item>Shanza Khan</item>
+        <item>Waqar Khan</item>
+        <item>Adil Hanif</item>
+        <item>Faisal Anwar</item>
+        <item>Bilal Abbas</item>
+        <item>Ahmad Khan</item>
+        <item>Syed Khubaib</item>
+        <item>Mubashar Khattak</item>
+        <item>Adda Fatima</item>
+        <item>Mahnoor Yousafzai</item>
+        <item>Hafsa Khan</item>
+        <item>Mohsin Tanveer</item>
+        <item>Daniyal Sheikh</item>
+        <item>Rafia Khan</item>
+        <item>Adeel Arshad</item>
+        <item>Zubaria Khan</item>
+        <item>Faitma Numair</item>
+        <item>Zoha Raja</item>
+        <item>Ali Nauman</item>
+        <item>Raja Rouvaim</item>
+        <item>Hammad Khan</item>
+        <item>Hamza Warraich</item>
+    </string-array>
+    <string-array name="Numbers">
+        <item>03445184803</item>
+        <item>03445484838</item>
+        <item>03455489343</item>
+        <item>03323452352</item>
+        <item>03224553423</item>
+        <item>03423423424</item>
+        <item>03225543309</item>
+        <item>03357544531</item>
+        <item>03423423433</item>
+        <item>03403440304</item>
+        <item>03213345353</item>
+        <item>02224425555</item>
+        <item>03443423433</item>
+        <item>03488440304</item>
+        <item>03254332353</item>
+        <item>03445485458</item>
+        <item>03455484243</item>
+        <item>03325552552</item>
+        <item>03233553423</item>
+        <item>03403440304</item>
+        <item>03213335353</item>
+        <item>02233425555</item>
+        <item>03443223433</item>
+        <item>03488140304</item>
+        <item>03254332343</item>
+        <item>03447484878</item>
+        <item>03645184803</item>
+        <item>03445404838</item>
+        <item>03355089343</item>
+        <item>03723450352</item>
+        <item>03024553423</item>
+        <item>03233053423</item>
+        <item>03403440304</item>
+        <item>03212335353</item>
+        <item>02235425555</item>
+        <item>03443203433</item>
+        <item>03451184243</item>
+        <item>03325332552</item>
+        <item>03233863423</item>
+        <item>03403499304</item>
+        <item>03433203433</item>
+        <item>03423184243</item>
+        <item>02224422255</item>
+        <item>03443445433</item>
+        <item>03488440114</item>
+        <item>03254332353</item>
+        <item>03445485458</item>
+        <item>02355484243</item>
+        <item>04325552552</item>
+        <item>023433553423</item>
+        <item>06303440304</item>
+        <item>02413335353</item>
+        <item>02257425555</item>
+        <item>03448823433</item>
+        ></string-array>
+</resources>
